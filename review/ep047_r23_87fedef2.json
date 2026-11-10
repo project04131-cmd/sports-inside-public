@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep047",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 23,
+  "request_hash": "87fedef2735bce7eb6f8cd81ba2959bb68242abaeed0a1168fa0e1eea26bcea8",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "The distance between the front and rear axle is 200mm shorter than last year – 3400mm instead of 3600mm – creating what drivers have been calling a more nimble car than in 2025.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2026년 휠베이스가 3,400mm이고 2025년 3,600mm에서 200mm 짧아졌음을 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "The cars are narrower, too, with 100mm taken off the width of the floor, and the tyres adding to that.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2026년 차 바닥 폭이 100mm 줄어든다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "The front tyres are 25mm narrower than last year, and the rears have had their width reduced by 30mm.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2026년 앞 타이어가 25mm, 뒤 타이어가 30mm 좁아진다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "With smaller car and tyre dimensions, there has been a significant drop in the minimum weight limit, down from 800kg in 2025 to 768kg this year.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2025년 최소 중량이 800kg, 2026년이 768kg임을 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "The removal of the MGU-H (Motor Generator Unit – Heat) has played a part in being able to lower the weight limit, as have the above reductions in size. With smaller car and tyre dimensions, there has been a significant drop in the minimum weight limit, down from 800kg in 2025 to 768kg this year.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 MGU-H 제거와 차·타이어 크기 감소가 최소 중량 하락에 영향을 줬다고 명시한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "While the new proportions can have an impact on racing – giving that little bit more space for two cars to battle in – they also can impact grip, with a smaller contact patch for the tyres.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 새 차의 크기 변화가 두 대가 겨룰 공간을 조금 더 준다고 명시한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "they also can impact grip, with a smaller contact patch for the tyres.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 타이어 접지 면적이 작아져서 그립(접지력)에 영향을 준다고 명확히 언급한다."
+    },
+    {
+      "n": 8,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-about-in.56uUTFhB0z5j3iZfhC0rGP",
+      "evidence": "The distance between the front and rear axle is 200mm shorter than last year – 3400mm instead of 3600mm – creating what drivers have been calling a more nimble car than in 2025.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2026년 차가 2025년보다 더 민첩(nimble)하다고 드라이버들이 표현했다는 내용이 명확히 있다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:48:45+09:00",
+  "model": "gpt-4.1"
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep051",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 27,
+  "request_hash": "6bda32425254695410e5721f41df69940dda68ed40863acc81f77dd5a1620fd7",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/rules/three-batter-minimum",
+      "evidence": "MLB instituted a rule change that requires pitchers to either face a minimum of three batters in an appearance or pitch to the end of a half-inning, with exceptions for injuries and illnesses.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 핵심 내용인 '투수는 최소 3명의 타자를 상대하거나 하프 이닝 끝까지 던져야 한다'가 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/rules/three-batter-minimum",
+      "evidence": "Previously, Rule 5.10(f) stated that the starting pitcher must pitch to one batter until that batter was put out or reached base, and Rule 5.10(g) stated that any reliever must pitch to one batter until that batter was put out or reached base, or the offensive team was put out, with exceptions for i",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2019년 시즌 종료까지 구원투수가 한 타자만 상대하면 됐음을 명확히 설명한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/rules/three-batter-minimum",
+      "evidence": "MLB instituted a rule change that requires pitchers to either face a minimum of three batters in an appearance or pitch to the end of a half-inning, with exceptions for injuries and illnesses.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 부상과 질병이 3타자 상대 규정의 예외임을 명확히 언급한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/rules/three-batter-minimum",
+      "evidence": "If a pitcher faces one batter to end an inning, he may be removed, but if he is brought back for a second inning, he must still face two more batters for a total of three.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 한 타자로 이닝을 끝낸 뒤 다시 나오면 합쳐서 3타자를 채워야 한다고 명확히 설명되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/rules/three-batter-minimum",
+      "evidence": "In an effort to reduce the number of pitching changes and, in turn, cut down the average time per game, MLB instituted a rule change that requires pitchers to either face a minimum of three batters in an appearance or pitch to the end of a half-inning, with exceptions for injuries and illnesses.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 투수 교체 횟수를 줄이고 평균 경기 시간을 줄이기 위한 규정 목적을 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:49:30+09:00",
+  "model": "gpt-4.1"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep022",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 33,
+  "request_hash": "e409e9fc99a15071fbacd2d71e6d56693b30d4c7bb4bc88aa8a40b1e8a56f7da",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 반박하지 못해 보류(모델 판정: 불일치, 연관성 평가: supports)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3",
+      "evidence": "Legal, HR, finance, marketing and sustainability initiative costs are excluded, as are driver salaries/retainers, the salaries of the three highest-paid staff – which usually includes the Team Principal and Chief Technical Officer, costs related to heritage car programmes and race travel costs.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 드라이버 연봉·리테이너가 코스트캡(상한)에서 제외된다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3",
+      "evidence": "Legal, HR, finance, marketing and sustainability initiative costs are excluded, as are driver salaries/retainers, the salaries of the three highest-paid staff – which usually includes the Team Principal and Chief Technical Officer, costs related to heritage car programmes and race travel costs.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 고연봉 직원 상위 3명의 급여와 레이스 이동비가 코스트캡에서 제외된다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3",
+      "evidence": "Legal, HR, finance, marketing and sustainability initiative costs are excluded, as are driver salaries/retainers, the salaries of the three highest-paid staff – which usually includes the Team Principal and Chief Technical Officer, costs related to heritage car programmes and race travel costs.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 법무(legal), 재무(finance), 마케팅(marketing) 비용이 코스트캡에서 제외된다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3",
+      "evidence": "Health and safety costs have been added as an exclusion in the rules, as have catering costs at team factories and at races.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 케이터링과 건강·안전 비용이 제외 항목임이 명확히 언급되어 있다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3",
+      "evidence": "The cost cap covers a team's expenditure which relates directly to the race car's performance.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 상한이 자동차 성능과 직결된 지출을 대상으로 한다고 명확히 설명한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:50:44+09:00",
+  "model": "gpt-4.1"
+}

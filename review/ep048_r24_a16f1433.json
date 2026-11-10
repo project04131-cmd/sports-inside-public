@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep048",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 24,
+  "request_hash": "a16f1433d458f534cfd70e406b152fb77673d82cab21ea07791729704ca74219",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "There is no wiggle room involved – in Monaco five of the six in-race transgressions were measured at 60.1kph.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2026년 모나코 GP에서 레이스 중 위반 6건 중 5건이 60.1km/h로 측정됐다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "For the 2026 season the pit lane speed limit is set at 80kph, which applies across all segments of the event. At select Grands Prix, and in the interests of safety, this limit is reduced to 60kph, and this is outlined by the Race Director in his pre-event notes distributed to the teams. That applies",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "2026년 기본 피트레인 제한이 80km/h이고, 모나코 등 일부 GP는 60km/h로 제한된다는 내용이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "During the course of the 1994 season, one laced by tragedy, pit lane speed limits were introduced, and the exact speed has evolved across the following decades.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 1994년 시즌 도중 피트레인 속도 제한이 도입되었다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "For decades Formula 1 never had pit lane speed limits and in the very early years of the championship, many pit areas were not even separated from the main part of the track.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 F1에 수십 년간 피트레인 속도 제한이 없었다고 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "a spate of incidents and near-misses in an era of greater emphasis on safety prompted a rethink. During the course of the 1994 season, one laced by tragedy, pit lane speed limits were introduced",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 잇따른 사고와 아찔한 순간, 그리고 안전을 더 중시하던 분위기가 재검토(피트레인 속도 제한 도입)로 이어졌음을 명확히 언급한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "The speed of a car is measured by FIA transponders and electronic timing loops, rather than through a camera or speed guns that you would ordinarily find on public roads.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 속도가 카메라나 스피드건이 아니라 FIA 트랜스폰더와 전자 타이밍 루프로 측정된다고 명확히 설명한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/explained-why-are-there-pit-lane-speed-limits-in-f1-and-how-are-they-measured.jc4jiWVsfbRhb62QomSf0",
+      "evidence": "The speed of a car is measured by FIA transponders and electronic timing loops, rather than through a camera or speed guns that you would ordinarily find on public roads. These measure the average speed of a Formula 1 car across a series of timing beams in the pit lane, which calculates the time it ",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 타이밍 루프 사이를 통과한 시간으로 구간 평균 속도를 계산한다고 명확히 설명한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:49:00+09:00",
+  "model": "gpt-4.1"
+}

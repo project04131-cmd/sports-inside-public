@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep045",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 21,
+  "request_hash": "3b51b2767836942ed9a351f340fe9b46409de9df35e74093ff0a316a31ebba2e",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/transactions/japanese-posting-system",
+      "evidence": "Previously, Japanese clubs set a release fee that could be as high as $20 million.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 과거 일본 구단이 이적료(릴리즈 피)를 정했고 최대 2,000만 달러까지 가능했다고 명시되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/transactions/japanese-posting-system",
+      "evidence": "Under posting rules that were instituted in the 2018-19 offseason, the \"release fee\" -- an amount that an NPB club must receive in the event an agreement is reached between a posted player and a Major League club -- depends on the guaranteed value of the contract a posted player signs with a Major L",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2018-19 오프시즌 도입된 현행 이적료(포스팅 시스템)가 계약 보장액에 연동된다고 명확히 설명한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/transactions/japanese-posting-system",
+      "evidence": "For Major League contracts with a total guaranteed value of $25 million or less, the release fee will be 20 percent of the total guaranteed value of the contract. For Major League contracts with a total guaranteed value between $25,000,001 and $50 million, the release fee will be 20 percent of the f",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 보장액 구간별 20%→17.5%→15% 구조가 PAGE의 설명과 정확히 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/transactions/japanese-posting-system",
+      "evidence": "So if a player signs a Major League contract with a guaranteed value of $100 million, his Japanese team would receive roughly $16.9 million ($5 million for the first $25 million, $4.4 million for the second $25 million and $7.5 million for the final $50 million).",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 1억 달러 계약 시 일본 구단이 약 1,690만 달러를 받는다고 명시되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlb.com/glossary/transactions/japanese-posting-system",
+      "evidence": "All 30 MLB clubs have 45 days to negotiate with a player after he is posted. If no agreement is reached in that timeframe, the player returns to his NPB club for the coming season.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "협상 기간이 45일이고, 합의 실패 시 원소속 구단 복귀라는 CLAIM이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:48:19+09:00",
+  "model": "gpt-4.1"
+}

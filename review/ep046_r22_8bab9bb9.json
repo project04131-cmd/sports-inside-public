@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep046",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 22,
+  "request_hash": "8bab9bb9c759c756a46d5f478520d575d03ab38ee5e337493336abe916fef85c",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/yankees-jazz-chisholm-jr-anthony-volpe-use-new-bat-shape-in-historic-nine-homer-rout-vs-brewers",
+      "evidence": "MLB Rule 3.02 covers the bat itself. Here is the rule: (a) The bat shall be a smooth, round stick not more than 2.61 inches in diameter at the thickest part and not more than 42 inches in length. The bat shall be one piece of solid wood.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 조건(최대 직경, 최대 길이, 한 조각 단단한 나무)이 PAGE의 MLB Rule 3.02(a) 인용문과 정확히 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/yankees-jazz-chisholm-jr-anthony-volpe-use-new-bat-shape-in-historic-nine-homer-rout-vs-brewers",
+      "evidence": "Rule 3.02(a) provides the maximum bat diameter (2.61 inches) without stipulating where the maximum diameter must occur on the bat. In theory, it could be toward the end of the bat, near the handle, or anywhere in between.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 규정이 최대 직경의 위치를 명시하지 않는다고 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:48:28+09:00",
+  "model": "gpt-4.1"
+}

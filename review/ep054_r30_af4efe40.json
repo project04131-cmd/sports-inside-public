@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep054",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 30,
+  "request_hash": "af4efe408a09d93b8335bfcc7501c3bbd8fb531b8c4394aece17752255acf57f",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
+      "evidence": "Finally, we have a new team on the grid in 2026. Will that change how the weekend is run? The arrival of Cadillac in the paddock takes the number of F1 teams up to 11, and the number of cars up to 22 – a situation we haven’t seen since 2016.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 캐딜락 합류로 2026년 F1이 11개 팀 22대 체제가 된다고 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
+      "evidence": "The arrival of Cadillac in the paddock takes the number of F1 teams up to 11, and the number of cars up to 22 – a situation we haven’t seen since 2016.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 11개 팀 22대 체제가 2016년 이후 처음이라는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
+      "evidence": "It’s a relatively straightforward change with the number of cars eliminated in Q1/SQ1 and Q2/SQ2 rising from five to six, leaving Q3/SQ3 as they are now, with a 10-car pole position shoot-out.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 Q1/SQ1·Q2/SQ2 탈락 인원이 5명에서 6명으로 늘어난다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
+      "evidence": "leaving Q3/SQ3 as they are now, with a 10-car pole position shoot-out.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 Q3/SQ3가 10대가 폴 포지션을 다투는 방식이 그대로 유지된다고 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    }
+  ],
+  "judged_at": "2026-11-10T20:50:04+09:00",
+  "model": "gpt-4.1"
+}

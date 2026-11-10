@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep024",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 34,
+  "request_hash": "85ee93c99f313979bfe244bfb25f9dd3abb0b595943c509e01e9f463c560d078",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+      "evidence": "Eight players were tendered a qualifying offer (a one-year, $23.15 million deal for 2027) prior to Monday’s deadline.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 2027년 퀄리파잉 오퍼 금액 2,315만 달러가 PAGE의 $23.15 million deal for 2027과 정확히 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에는 2012년 제도 시행 이후 오퍼를 받은 선수의 총 인원(157명)에 대한 언급이 없다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+      "evidence": "Since the system was implemented in 2012, 18 players to receive a QO have accepted it.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2012년 제도 도입 이후 QO를 받은 18명이 수락했다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+      "evidence": "Players who accept qualifying offers are signed with their teams for the next season at the designated value. Those who don't accept remain free agents, and if a new team signs them, their old team receives Draft pick compensation.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 두 조건(수락 시 1년 계약, 거절 시 FA로 남음)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+      "evidence": "Players who accept qualifying offers are signed with their teams for the next season at the designated value. Those who don't accept remain free agents, and if a new team signs them, their old team receives Draft pick compensation.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 핵심인 '거절한 선수가 다른 팀과 계약하면 원소속팀이 드래프트 지명권 보상을 받음'이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:50:52+09:00",
+  "model": "gpt-4.1"
+}

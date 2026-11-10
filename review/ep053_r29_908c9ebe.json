@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep053",
+  "submitted_at": "2026-11-10T20:47:00+09:00",
+  "sheet_row": 29,
+  "request_hash": "908c9ebecbd28c95390d891b23c1a28884cb1a1628c03dbcbfb21f25fab37040",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/fia-make-changes-to-safety-car-rules-ahead-of-2022-f1-season-start.2h2XmjOmYYyusyllcZmVIP",
+      "evidence": "Last year at the Abu Dhabi Grand Prix, five drivers – Lando Norris, Fernando Alonso, Esteban Ocon, Charles Leclerc and Sebastian Vettel – were allowed to unlap themselves. The remaining three lapped cars – Daniel Ricciardo, Lance Stroll, Mick Schumacher – were not allowed to unlap themselves.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2021 아부다비 GP에서 선두에게 한 바퀴 뒤진 차가 총 8대(5+3)였음이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/fia-make-changes-to-safety-car-rules-ahead-of-2022-f1-season-start.2h2XmjOmYYyusyllcZmVIP",
+      "evidence": "Last year at the Abu Dhabi Grand Prix, five drivers – Lando Norris, Fernando Alonso, Esteban Ocon, Charles Leclerc and Sebastian Vettel – were allowed to unlap themselves. The remaining three lapped cars – Daniel Ricciardo, Lance Stroll, Mick Schumacher – were not allowed to unlap themselves.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 8대 중 5대 허용, 3대 불허가 PAGE에 구체적으로 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/fia-make-changes-to-safety-car-rules-ahead-of-2022-f1-season-start.2h2XmjOmYYyusyllcZmVIP",
+      "evidence": "Article 55.13 now reads: “If the clerk of the course considers it safe to do so, and the message 'LAPPED CARS MAY NOW OVERTAKE' has been sent to all Competitors using the official messaging system, all cars that have been lapped by the leader will be required to pass the cars on the lead lap and the",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 개정된 규정이 선두에게 랩다운된 모든 차가 선두들을 추월해야 한다고 명확히 설명한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.formula1.com/en/latest/article/fia-make-changes-to-safety-car-rules-ahead-of-2022-f1-season-start.2h2XmjOmYYyusyllcZmVIP",
+      "evidence": "FIA make changes to Safety Car rules ahead of 2022 F1 season start Mar 16, 2022 9:45am UTC The FIA have published an updated version of the Sporting Regulations which features a series of revisions, including the Safety Car regulation regarding lapped cars…",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 2022 시즌 시작을 앞두고 규정 개정이 발표된 사실이 명확히 언급된다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:49:55+09:00",
+  "model": "gpt-4.1"
+}
