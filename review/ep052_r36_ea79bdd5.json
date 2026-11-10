@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep052",
+  "submitted_at": "2026-11-10T20:59:00+09:00",
+  "sheet_row": 36,
+  "request_hash": "ea79bdd55f501a1273a42617482e6388f8484546cf110c8d2c3b09c9dd60ea5f",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.formulaonehistory.com/f1-teams-agree-plan-to-cut-race-distances-for-2027/",
+      "evidence": "For years, the familiar rule has been simple: take the smallest number of complete laps required to exceed 305km, with Monaco standing apart at 260km.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 일반 그랑프리는 305km를 넘는 최소 바퀴 수로 진행하며, 모나코는 예외로 약 260km임을 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.formulaonehistory.com/f1-teams-agree-plan-to-cut-race-distances-for-2027/",
+      "evidence": "Australia 5.278 58 306.124 55 290.290",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE의 표에서 5.278km 서킷(호주)에서 58바퀴(306.124km)에서 55바퀴(290.290km)로 변경된다고 명확히 확인된다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.formulaonehistory.com/f1-teams-agree-plan-to-cut-race-distances-for-2027/",
+      "evidence": "As part of that process, fuel-flow rates are being increased for 2027. Allowing engines to use more fuel can help address some of the performance concerns, but it creates another problem: if a car burns fuel at a greater rate, it needs enough fuel capacity to complete the full Grand Prix distance.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2027년 파워유닛의 연료 흐름이 커져 연료가 더 필요하다고 명확히 설명한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.formulaonehistory.com/f1-teams-agree-plan-to-cut-race-distances-for-2027/",
+      "evidence": "Requiring substantially more fuel could force expensive modifications, particularly for teams hoping to carry over significant parts of their 2026 chassis into the following season. Rather than forcing every team towards a major redesign solely to accommodate additional fuel, one solution emerged: r",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2026년 설계 차에 연료를 더 싣는 것이 비용이 큰 변경(비싼 개조)을 유발할 수 있고, 거리를 줄이면 필요한 연료가 줄어든다는 점을 명확히 언급한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.formulaonehistory.com/f1-teams-agree-plan-to-cut-race-distances-for-2027/",
+      "evidence": "The rule is not final yet: it still requires approval by the F1 Commission and ratification by the FIA World Motor Sport Council.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 F1 위원회 승인과 FIA 세계모터스포츠평의회 비준이 필요해 아직 확정이 아니라고 명확히 언급한다."
+    },
+    {
+      "n": 7,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    }
+  ],
+  "judged_at": "2026-11-10T20:59:36+09:00",
+  "model": "gpt-4.1"
+}
