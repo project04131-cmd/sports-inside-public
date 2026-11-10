@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep049",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 25,
+  "request_hash": "dd27f323284475acfb1f2719c463a42ac704dd43f1ad24073130bc56b2ec4f70",
+  "verdict": "실패",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-softest-tyre-dropped-as-2026-choices-finalised/",
+      "evidence": "In 2026 there will be five dry tyre compounds, ranging from the hardest C1 compound to the softest C5 tyre. The C6, which was introduced at Imola earlier this year and brought to Monaco, Montreal and Baku to try and provide more strategic variation, will not return.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2026년 마른 노면 타이어가 C1~C5 5종류이고 C6는 제외된다고 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-softest-tyre-dropped-as-2026-choices-finalised/",
+      "evidence": "Pirelli said: \"Particular attention has been paid to performance differences between the compounds in terms of laptime, so as to ensure a wide and consistent delta between them, to deliver more strategy options. \"The decision not to validate the sixth and softest compound, the C6, was taken precisel",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 피렐리가 랩타임 차이(delta) 기준을 맞추는 것이 불가능해 C6를 뺐다고 직접적으로 밝히고 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-softest-tyre-dropped-as-2026-choices-finalised/",
+      "evidence": "The data from Pirelli's recent tests showed the C5 and C6 gap as simply too small compared to the other compounds.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 피렐리 최근 테스트 데이터에서 C5와 C6 간격이 다른 컴파운드 대비 너무 작았다고 명확히 언급한다."
+    },
+    {
+      "n": 4,
+      "result": "불일치",
+      "src": "https://www.the-race.com/formula-1/f1-softest-tyre-dropped-as-2026-choices-finalised/",
+      "evidence": "The C6, which was introduced at Imola earlier this year and brought to Monaco, Montreal and Baku to try and provide more strategic variation, will not return.",
+      "evidence_verified": true,
+      "support_check": "contradicts",
+      "reason": "PAGE에 따르면 C6는 이미 이몰라에서 도입되었고 2025년이 아니라 그 이전에 데뷔했으며, 2025년 이몰라에서 데뷔한다는 CLAIM과 다르다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-softest-tyre-dropped-as-2026-choices-finalised/",
+      "evidence": "The C6, which was introduced at Imola earlier this year and brought to Monaco, Montreal and Baku to try and provide more strategic variation, will not return.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 C6가 모나코, 몬트리올, 바쿠에 전략 다양성을 위해 투입됐음을 명확히 언급한다."
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    }
+  ],
+  "judged_at": "2026-11-10T20:39:06+09:00",
+  "model": "gpt-4.1"
+}

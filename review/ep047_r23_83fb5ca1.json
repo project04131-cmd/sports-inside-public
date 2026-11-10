@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep047",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 23,
+  "request_hash": "83fb5ca1bfa283186d8c55eba97993c47d47f323e07a8a8feff0ba4e9c5abb2b",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 7,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 8,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    }
+  ],
+  "judged_at": "2026-11-10T20:38:50+09:00",
+  "model": "gpt-4.1"
+}

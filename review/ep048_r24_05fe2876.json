@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep048",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 24,
+  "request_hash": "05fe28761eb357c02725d4c369e0b6d44a9fbc171522165eca45d9d20b148e52",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    },
+    {
+      "n": 7,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    }
+  ],
+  "judged_at": "2026-11-10T20:38:54+09:00",
+  "model": "gpt-4.1"
+}

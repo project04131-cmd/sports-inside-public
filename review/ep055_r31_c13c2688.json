@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep055",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 31,
+  "request_hash": "c13c2688852d436217122a67c84a53b40cb38114e54f16d2ae795019c9460d74",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "PitchCom works by allowing players to exchange signals using a minimal amount of technology: a transmitter with buttons the catcher wears on his wrist and receivers that can be tucked inside the hats of pitchers and middle infielders (to allow for defensive positioning tweaks).",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 포수가 손목에 버튼이 달린 송신기를 착용한다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "PitchCom works by allowing players to exchange signals using a minimal amount of technology: a transmitter with buttons the catcher wears on his wrist and receivers that can be tucked inside the hats of pitchers and middle infielders (to allow for defensive positioning tweaks).",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 투수와 중앙 내야수(2루수·유격수)가 모자 속 수신기를 착용할 수 있다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "PitchCom works by allowing players to exchange signals using a minimal amount of technology: a transmitter with buttons the catcher wears on his wrist and receivers that can be tucked inside the hats of pitchers and middle infielders (to allow for defensive positioning tweaks).",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 내야수(중견 내야수)가 수비 위치 조정(defensive positioning tweaks)에 전자 신호 장치를 사용하는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "Use of the devices to coordinate pitch selection between pitcher and catcher would make it all but impossible for opposing teams to steal signals, which has been an issue of increasing concern since the Astros' sign-stealing scandal came to light.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 애스트로스 사인 훔치기 파문 이후 우려가 커진 상황에서 전자 기기를 도입해 사인 훔치기를 사실상 불가능하게 한다고 명시한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "Per ESPN, use of the technology will not be mandatory, and pitchers and catchers will still be free to signal pitches by traditional means if they prefer to do so.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 전자 신호 장치 사용이 의무가 아니며 기존 방식도 계속 사용할 수 있다고 명확히 언급한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.cbssports.com/mlb/news/mlb-to-allow-electronic-pitch-signaling-devices-in-2022-season-to-prevent-sign-stealing/",
+      "evidence": "The system, developed by PitchCom, was used at times during 2022 spring training and was tested in the California League during the 2021 season.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2021년 캘리포니아리그에서 시험, 2022년 스프링트레이닝에서 사용했다고 명확히 언급되어 CLAIM과 일치한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:40:05+09:00",
+  "model": "gpt-4.1"
+}

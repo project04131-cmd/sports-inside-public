@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep043",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 19,
+  "request_hash": "95db45f45dcc42b2d9b7ecfb89708d47c1200c30a6f35e3cc7c8d508793a204e",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.motorsportweek.com/2025/02/13/f1-explains-why-fastest-lap-bonus-point-was-removed-for-2025",
+      "evidence": "“Since 2019, a driver finishing in the top 10 could earn a bonus point by setting the fastest lap of the race,” F1 stated on its official website .",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2019년 도입과 상위 10위 내에서만 보너스 1점이 주어진다는 내용이 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 불일치)"
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.motorsportweek.com/2025/02/13/f1-explains-why-fastest-lap-bonus-point-was-removed-for-2025",
+      "evidence": "Sometimes that meant drivers would still be pushing late on trying to take the accolade, or even make late pit stops for fresh rubber to increase their return.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 막판 새 타이어를 위한 늦은 피트스톱 등 점수를 노린 시도가 있었다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.motorsportweek.com/2025/02/13/f1-explains-why-fastest-lap-bonus-point-was-removed-for-2025",
+      "evidence": "A lot of the time, it went to a driver outside the top 10 as a result of pitting late or to benefit the team by stealing the point from a competitor in the championship. An example of this was at last season’s Singapore Grand Prix when Daniel Ricciardo, in the Red Bull-owned RB, stole the bonus poin",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 팀이 경쟁자의 점수를 빼앗기 위해 전략적으로 보너스 포인트를 활용한 사례를 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 반박하지 못해 보류(모델 판정: 불일치, 연관성 평가: supports)"
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.motorsportweek.com/2025/02/13/f1-explains-why-fastest-lap-bonus-point-was-removed-for-2025",
+      "evidence": "Despite the removal of the rule in F1, it will continue to be used in the FIA’s junior categories Formula 2 and Formula 3 for the foreseeable future.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "F1에서 보너스 포인트가 2025시즌에 제거되고, F2·F3에서는 당분간 유지된다는 내용이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:38:25+09:00",
+  "model": "gpt-4.1"
+}

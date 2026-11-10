@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep050",
+  "submitted_at": "2026-11-10T20:40:00+09:00",
+  "sheet_row": 26,
+  "request_hash": "cef7f9895677b361621c8beee516e7e4674f670f25a1dc47d3381747f8bccc34",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "In 1899/1900, the rule regarding home plate's shape changed, requiring the base to be square in shape, as opposed to circular, so it matched the rest of the bases. The 12″ x 12″ square (later to become a 16″ x 16″ square) was positioned so one corner pointed toward the pitcher and the opposite corne",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 1899/1900년에 홈플레이트가 정사각형이었고 한 모서리가 투수 쪽을 향했다고 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "In 1899/1900, the rule regarding home plate's shape changed, requiring the base to be square in shape, as opposed to circular, so it matched the rest of the bases.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 연도, 정사각형 도입, 이전 원형 허용, 다른 베이스와 맞추려는 규정이 모두 PAGE에서 확인된다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "This was developed by Robert Keating and introduced as a viable option for the 1900/1901 baseball season.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 오각형이 로버트 키팅에 의해 개발되어 1900/1901 시즌 선택지로 도입됐다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "The rear corners, which extend to a point, are made to be perpendicular to the first and third base lines.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 오각형(홈플레이트)의 뒤쪽 모서리가 1루·3루 선과 직각임이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "The biggest advantage of the new shape was that it made the edges of the strike zone more visible to pitchers and umpires and, therefore, improved the consistency of calling strikes.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 오각형 모양이 스트라이크존 가장자리를 투수와 심판에게 더 잘 보이게 한다고 명확히 언급한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://mlb.com/news/why-is-home-plate-shaped-different-than-other-bases-c177695752",
+      "evidence": "Keating's reasons for picking rubber here were that the springy nature of a rubber base would give base runners a bounce to their step when they took off for first base; it would not harshly vibrate the batter's hands when he struck the base with the end of his bat; and it would prevent severe injur",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 키팅이 고무 재질이 주자에게 튕김을 주고, 타자 손 진동과 슬라이딩 부상을 줄인다고 한 것을 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-10T20:39:18+09:00",
+  "model": "gpt-4.1"
+}
