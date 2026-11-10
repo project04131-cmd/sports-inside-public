@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep057",
+  "submitted_at": "2026-11-11T00:15:00+09:00",
+  "sheet_row": 38,
+  "request_hash": "10152f5374346f637f9ff710d6bd5777ec2bb58533afe76c682c6e742eadc2ee",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aduo-how-f1-will-unlock-engine-upgrades-so-strugglers-can-catch-up/",
+      "evidence": "Engine development was frozen for five years to control costs, but to stop the field from being locked into a hierarchy of permanent winners and losers, any manufacturer whose internal combustion engine fell meaningfully short of the best on the grid would be allowed to break the freeze and catch up",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 엔진 개발이 비용 통제를 위해 5년간 동결되었다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aduo-how-f1-will-unlock-engine-upgrades-so-strugglers-can-catch-up/",
+      "evidence": "Engine development was frozen for five years to control costs, but to stop the field from being locked into a hierarchy of permanent winners and losers, any manufacturer whose internal combustion engine fell meaningfully short of the best on the grid would be allowed to break the freeze and catch up",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 ADUO가 뒤처진 제조사가 동결을 깨고 따라잡도록 허용하는 제도임을 명확히 설명한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aduo-how-f1-will-unlock-engine-upgrades-so-strugglers-can-catch-up/",
+      "evidence": "A manufacturer whose ICE Performance Index sits 2% to 4% below the benchmark earns one additional homologation upgrade this season and one more in 2027.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 핵심인 '2~4% 뒤처지면 추가 업그레이드 1번'이 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aduo-how-f1-will-unlock-engine-upgrades-so-strugglers-can-catch-up/",
+      "evidence": "A manufacturer whose ICE Performance Index sits 2% to 4% below the benchmark earns one additional homologation upgrade this season and one more in 2027. Fall 4% or more behind, and that doubles to two upgrades in each year.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 4% 이상 뒤처지면 업그레이드가 두 배인 2번임을 명확히 설명한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aduo-how-f1-will-unlock-engine-upgrades-so-strugglers-can-catch-up/",
+      "evidence": "The Performance Index looks only at the internal combustion engine: input shaft torque, engine speed, MGU-K power and a weighting for power sensitivity on lap time. It says nothing about the battery, the energy recovery system or how that stored energy is deployed, and under the 2026 rules, those el",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 성능 지수(Performance Index)가 내연기관만 평가하며 배터리 등 전기 시스템은 포함하지 않는다고 명확히 설명한다."
+    }
+  ],
+  "judged_at": "2026-11-11T01:22:46+09:00",
+  "model": "gpt-4.1"
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep058",
+  "submitted_at": "2026-11-11T00:15:00+09:00",
+  "sheet_row": 39,
+  "request_hash": "4374c3b3e6d392a9b1f56897bc85d9167002cb666d7ba0f53ec90e2fbf03bd6d",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.skysports.com/f1/news/12433/13248475/f1-red-flag-tyre-change-rules-explained-lando-norris-regulation-complaints-after-sao-paulo-gp-disappointment",
+      "evidence": "The first concern and the biggest reason for allowing the change of tyres is when there has been a really big accident. For example, if drivers have driven past the accident and then come into the pit lane, there are a lot of safety concerns over whether the cars have driven through a lot of debris.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 사고 현장을 지난 차량들이 잔해를 밟았을 수 있다는 안전 우려가 규정의 가장 큰 이유 중 하나라고 명확히 설명한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.skysports.com/f1/news/12433/13248475/f1-red-flag-tyre-change-rules-explained-lando-norris-regulation-complaints-after-sao-paulo-gp-disappointment",
+      "evidence": "Even in the example of Sunday, when it was wet, if drivers run a few laps under a full or Virtual Safety Car before it's red-flagged and then they come into the pit lane quite slowly, the tyres are actually really, really cold at that point and it takes a long time to get them back up to temperature",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 안전차(또는 가상 안전차) 아래 느리게 달린 뒤 레드 플래그가 나오면 타이어가 매우 차가워진다고 명확히 언급한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.skysports.com/f1/news/12433/13248475/f1-red-flag-tyre-change-rules-explained-lando-norris-regulation-complaints-after-sao-paulo-gp-disappointment",
+      "evidence": "The rule has always been the subject of debate but I think there are pretty good reasons why it's the way it is, and it's also universal for everyone.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 해당 규정이 모든 팀에 보편적으로(universal) 적용된다고 명시한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.skysports.com/f1/news/12433/13248475/f1-red-flag-tyre-change-rules-explained-lando-norris-regulation-complaints-after-sao-paulo-gp-disappointment",
+      "evidence": "And if didn't have the current rule and instead you said teams had to prove accident damage before they could change tyres under the red flag, the teams would find a way to prove there was accident damage in order to change them.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 규정이 없으면 팀들이 사고 손상을 입증하려 들 것이라는 설명이 명확히 언급된다."
+    }
+  ],
+  "judged_at": "2026-11-11T01:22:59+09:00",
+  "model": "gpt-4.1"
+}

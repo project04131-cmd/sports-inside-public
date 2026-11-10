@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep059",
+  "submitted_at": "2026-11-11T00:15:00+09:00",
+  "sheet_row": 40,
+  "request_hash": "6ca4e784ea2d6a10bae35ee788149a3f8bfef5a0a20a9928820aff21015b75c2",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/mlb-new-rules-for-2023-faq",
+      "evidence": "The defensive team must have a minimum of four players on the infield, with at least two infielders completely on either side of second base.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 내야수 4명 이상이 내야에 있어야 한다는 규정이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 반박하지 못해 보류(모델 판정: 불일치, 연관성 평가: supports)"
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/mlb-new-rules-for-2023-faq",
+      "evidence": "Pitchers will be required to begin their motion 15 seconds after receiving the ball with the bases empty or 20 seconds after receiving the ball with runners on base. If they don’t, they will be charged with an automatic ball.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 규정 위반 시 자동으로 볼이 선언된다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mlb.com/news/mlb-new-rules-for-2023-faq",
+      "evidence": "What is the purpose of the defensive shift restrictions? To improve the likelihood of balls in play leading to more traditional outcomes and to showcase the athleticism of rangy defenders up the middle.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 규정의 목적이 인플레이 타구가 더 전통적인 결과로 이어질 가능성을 높이는 것임이 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-11T01:23:09+09:00",
+  "model": "gpt-4.1"
+}
