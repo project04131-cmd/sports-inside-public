@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep056",
+  "submitted_at": "2026-11-10T00:17:02+09:00",
+  "sheet_row": 17,
+  "request_hash": "5d1cf10e6f56265c2e006cd7f0f30730cc9d996a42ed3cb0c495a14d70e8386c",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "기존 규정은 반발계수가 0.4134~0.4374 범위 안에 들어야 했는데 이를 0.4034~0.4234로 바꿨다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 수치와 범위 변화가 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "KBO는 공인구 반발계수를 하향 조정한 이유를 “국제대회 경쟁력 강화와 함께 지속되는 타고투저 현상을 완화하기 위해서”라고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 KBO가 공인구 반발계수 하향 조정의 목적을 국제대회 경쟁력 강화와 타고투저 완화라고 명시했으므로 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "KBO는 공인구 반발계수를 하향 조정한 이유를 “국제대회 경쟁력 강화와 함께 지속되는 타고투저 현상을 완화하기 위해서”라고 밝혔다. 미국 메이저리그와 일본 프로야구에 비해 그동안 다소 높았다는 설명도 덧붙였다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 KBO 공의 반발계수가 MLB·NPB보다 다소 높았다는 설명이 명시되어 있어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "2019시즌 리그 128경기 동안 홈런은 202개가 나왔다. 지난 시즌 비슷한 기간(126경기) 동안 홈런 304개가 쏟아진 것과 비교하면 차이가 뚜렷하다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 수치와 기간이 PAGE의 내용과 정확히 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "홈런이 약 34%나 줄었다. 다른 어떤 기록보다 큰 차이를 나타내고 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 '홈런이 약 34%나 줄었다'고 명시되어 있어 CLAIM과 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://weekly.khan.co.kr/article/201904291104051",
+      "evidence": "외부 환경 변화 중 하나는 NC 다이노스의 홈구장이 마산구장에서 새로 지은 창원 NC파크로 바뀐 것인데, 새 구장은 비교적 타자 친화적인 구장이어서 홈런 수를 늘리는 효과를 낳았다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 NC 새 구장이 타자 친화적이라 홈런 수를 늘리는 효과가 있었다고 명시적으로 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-10T01:33:23+09:00",
+  "model": "gpt-4.1"
+}
