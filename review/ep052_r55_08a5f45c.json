@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep052",
+  "submitted_at": "2026-11-12T13:01:46+09:00",
+  "sheet_row": 55,
+  "request_hash": "08a5f45ca6e21d3fa5c0ff714dc3201d87a2128473dd07c83b793ccc3b2f734a",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.crash.net/f1/news/1105059/1/f1-approves-plan-rule-change-grands-prix-length-2027",
+      "evidence": "Formula 1 grand prix race distances will be reduced for the 2027 season. The plan to have shorter races next season was confirmed by the FIA following the latest meeting of the F1 Commission in London on Monday. F1's decision-makers have agreed to reduce grand prix distances from 305km to 290km, whi",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "F1이 2027년 그랑프리 거리를 305km에서 290km로 줄이기로 합의했고, F1 위원회 회의 뒤 FIA가 이를 확인했다는 CLAIM이 PAGE의 내용과 정확히 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.crash.net/f1/news/1105059/1/f1-approves-plan-rule-change-grands-prix-length-2027",
+      "evidence": "F1's decision-makers have agreed to reduce grand prix distances from 305km to 290km, which equates to around two or three laps depending on the circuit.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 305km에서 290km로 줄어드는 것이 서킷에 따라 2~3바퀴에 해당한다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-approves-plan-for-shorter-grands-prix-in-2027/",
+      "evidence": "That’s because fuel flow rates are being increased for 2027 as part of F1 moving its power unit formula away from the initial 50/50 internal combustion engine-electrical power split.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2027년에 연료 흐름이 증가한다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-approves-plan-for-shorter-grands-prix-in-2027/",
+      "evidence": "Therefore, some teams would need to increase the size of their fuel tanks for 2027 and dip into cost cap money that could be spent elsewhere. So the teams and the FIA have instead now formally agreed to reduce the total race distance, which corresponds to a reduction of two or three laps everywhere ",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 일부 팀이 연료통을 키워야 했으나, 대신 레이스 총거리를 줄이기로 합의했다고 명확히 설명한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://gulfnews.com/sport/formula-1-set-to-restore-full-race-distances-in-2028-1.500718550",
+      "evidence": "The FIA, Formula 1's governing body, released its 2027 regulations this week. The document also outlined provisions for 2028, including a clause reversing the reduction and restoring the maximum race distance to 305km.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 FIA의 2027 규정 문서에 2028년 최대 레이스 거리를 305km로 되돌리는 조항이 포함되어 있다고 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-12T13:04:22+09:00",
+  "model": "gpt-4.1"
+}

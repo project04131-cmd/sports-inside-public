@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep063",
+  "submitted_at": "2026-11-12T13:01:46+09:00",
+  "sheet_row": 54,
+  "request_hash": "636f46cac6cfc52091f742dd4bbe17a8fe9ae5c7d0f4e809422c47e7079af7c4",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "기존에는 심준석, 장현석 등 특급 유망주들이 메이저리그 구단들과 자유계약(FA) 형태로 협상하며 높은 계약금을 받고 원하는 팀을 선수들이 선택할 수 있었다. 최근까지도 박찬민과 엄준상 등이 그랬다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 현재 한국 유망주들이 자유계약 형태로 원하는 팀을 고를 수 있었음을 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "해당 보도에 따르면, 신설될 국제 드래프트는 총 12라운드로 운영되며 전체 계약금 풀은 2억 달러 규모로 제한된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 국제 드래프트가 총 12라운드로 운영된다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "하지만 국제 드래프트가 도입되면 강제 지명 방식으로 묶이게 돼 구단 선택권이 사라지고 계약 금액도 크게 제한된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 국제 드래프트 도입 시 강제 지명 방식으로 구단 선택권이 사라진다고 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "해당 보도에 따르면, 신설될 국제 드래프트는 총 12라운드로 운영되며 전체 계약금 풀은 2억 달러 규모로 제한된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 국제 드래프트 전체 계약금 풀이 2억 달러로 제한된다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "노조 측은 개편안이 시행될 경우 향후 5년간 차세대 선수들이 총 10억 달러(약 1조 5383억 원)에 달하는 손실을 보게 될 것이라고 주장했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 핵심 주장(선수노조가 개편안 시행 시 5년간 10억 달러 손실을 주장하며 반발했다)이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-12T13:04:10+09:00",
+  "model": "gpt-4.1"
+}

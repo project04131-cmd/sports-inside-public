@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep060",
+  "submitted_at": "2026-11-12T13:01:46+09:00",
+  "sheet_row": 51,
+  "request_hash": "a94de1486fb265dc29f5415d2c8a07f84605e1530f9e115b582f9bd2d3fb7539",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.fnnews.com/news/202611031028152856",
+      "evidence": "MLB 사무국이 포스팅을 전 구단에 고지함에 따라, 노시환은 4일 오후 10시(미국 동부시간 3일 오전 8시)부터 다음 달 3일 오전 7시(미국 동부시간 2일 오후 5시)까지 정확히 30일 동안 메이저리그 30개 구단과 자유롭게 입단 협상을 벌이게 된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "협상 기간, 대상 구단 수, 시간 모두 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.fnnews.com/news/202611031028152856",
+      "evidence": "이번 도전은 노시환이 지난 2월 한화 구단과 맺은 '11년 총액 307억 원'이라는 KBO리그 역대 최대 규모 비FA 계약에 명시된 포스팅 조항을 통해 이뤄졌다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "11년 307억 원 비FA 계약이 KBO 역대 최대 규모임을 PAGE가 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019102",
+      "evidence": "계약에는 노시환이 이번 오프시즌 포스팅 시스템을 통해 메이저리그 진출을 추진할 수 있다는 내용이 담겼다. 또한 메이저리그 구단과 계약한 뒤 KBO리그로 돌아올 경우 한화에 복귀하도록 하는 조항도 포함됐다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 두 조항 모두 PAGE에서 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.fnnews.com/news/202611031028152856",
+      "evidence": "올 시즌 역시 127경기 타율 0.283, 29홈런, 96타점, OPS 0.865라는 최정상급 타격 지표를 남겼다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 기록(경기수, 타율, 홈런, 타점, OPS)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlbtraderumors.com/2026/11/kbos-hanwha-eagles-to-post-si-hwan-roh-for-mlb-teams.html",
+      "evidence": "If a deal is reached, the Eagles will receive a posting fee worth 20% of the first $25MM of Roh’s contract, 17.5% of the next $25MM, and $15% for anything beyond $50MM.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 이적료 구조(2,500만 달러까지 20%, 다음 2,500만 달러 17.5%, 초과분 15%)가 PAGE의 설명과 정확히 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019102",
+      "evidence": "미국 통계사이트 팻그래프닷컴은 10일(한국시간) 노시환의 메이저리그 진출 가능성을 분석하면서 \"장타력에도 불구하고 브렌던은 노시환이 메이저리그에서 중요한 역할을 맡을 만큼 충분히 좋은 타격을 보여 주지는 못할 것으로 생각한다\"고 전했다. 이어 \"우리의 예상을 말하자면 노시환은 한국으로 돌아갈 가능성이 더 높다\"고 전망했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 팬그래프닷컴이 노시환이 한국으로 돌아갈 가능성이 더 높다고 분석했다고 명시적으로 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-12T13:03:29+09:00",
+  "model": "gpt-4.1"
+}
