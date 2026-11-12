@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep063",
+  "submitted_at": "2026-11-12T12:52:00+09:00",
+  "sheet_row": 44,
+  "request_hash": "cddfc2ac8b232171c9f67c647ab66fdaa8987021e6ecd37ec4275c471b51ab03",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 202"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 불일치)"
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 202"
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/06/19/2026061909383597820",
+      "evidence": "하지만 국제 드래프트가 도입되면 강제 지명 방식으로 묶이게 돼 구단 선택권이 사라지고 계약 금액도 크게 제한된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 국제 드래프트 도입 시 강제 지명 방식으로 구단 선택권이 사라진다고 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 202"
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 202"
+    },
+    {
+      "n": 7,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 202"
+    }
+  ],
+  "judged_at": "2026-11-12T12:55:24+09:00",
+  "model": "gpt-4.1"
+}

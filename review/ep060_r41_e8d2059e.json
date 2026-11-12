@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep060",
+  "submitted_at": "2026-11-12T12:52:00+09:00",
+  "sheet_row": 41,
+  "request_hash": "e8d2059eedd94de8a702983727d7585f63a9830f95c0341015cfea32f71f5436",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 불일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.fnnews.com/news/202611031028152856",
+      "evidence": "이번 도전은 노시환이 지난 2월 한화 구단과 맺은 '11년 총액 307억 원'이라는 KBO리그 역대 최대 규모 비FA 계약에 명시된 포스팅 조항을 통해 이뤄졌다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "계약 시기, 기간, 금액, 비FA, KBO 역대 최대 규모라는 핵심 내용이 모두 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019102",
+      "evidence": "계약에는 노시환이 이번 오프시즌 포스팅 시스템을 통해 메이저리그 진출을 추진할 수 있다는 내용이 담겼다. 또한 메이저리그 구단과 계약한 뒤 KBO리그로 돌아올 경우 한화에 복귀하도록 하는 조항도 포함됐다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 두 조항(오프시즌 포스팅 허용, MLB 거쳐 KBO 복귀 시 한화 복귀)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 뒷받침하지 못해 보류(모델 판정: 일치, 연관성 평가: insufficient)"
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlbtraderumors.com/2026/11/kbos-hanwha-eagles-to-post-si-hwan-roh-for-mlb-teams.html",
+      "evidence": "the Eagles will receive a posting fee worth 20% of the first $25MM of Roh’s contract, 17.5% of the next $25MM, and $15% for anything beyond $50MM.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 이적료 구조(2,500만 달러까지 20%, 다음 2,500만 달러 17.5%, 초과분 15%)가 PAGE의 설명과 정확히 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    }
+  ],
+  "judged_at": "2026-11-12T12:54:53+09:00",
+  "model": "gpt-4.1"
+}
