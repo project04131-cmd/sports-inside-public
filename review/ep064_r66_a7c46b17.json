@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep064",
+  "submitted_at": "2026-11-12T20:10:47+09:00",
+  "sheet_row": 66,
+  "request_hash": "a7c46b17b59637cd14cd23c70d0248867ac3b002aa1b6fce0fb63b945ab5cbf4",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 403"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 403"
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "SSG 랜더스는 12일 새 외국인 투수 라이언 리차드슨(26)을 총액 100만 달러(계약금 10만 달러, 연봉 90만 달러)에 영입했다고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 세부사항(팀, 선수, 계약 총액, 계약금, 연봉)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 뒷받침하지 못해 보류(모델 판정: 일치, 연관성 평가: insufficient)"
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "외국인 선수는 신규 영입 때 계약 상한이 100만 달러다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 KBO 외국인 선수 신규 영입 시 계약 상한이 100만 달러임이 명확히 언급되어 있다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "앞서 SSG는 아빌라와 최대 2년 총액 310만 달러(계약금 20만 달러, 연봉 280만 달러, 옵션 10만 달러)에 계약을 체결했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 재계약 조건(기간, 총액, 세부 내역)이 PAGE에 명확히 일치하게 기재되어 있다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "재계약 선수에게 개인별 상한은 없지만, 2023시즌부터 구단별 외국인 선수 3명의 계약 총액에 샐러리캡이 적용되고 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 두 가지 핵심 주장(재계약 선수 개인별 상한 없음, 2023시즌부터 외국인 3명 총액 샐러리캡 적용)이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-12T20:12:36+09:00",
+  "model": "gpt-4.1"
+}
