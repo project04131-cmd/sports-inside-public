@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep061",
+  "submitted_at": "2026-11-12T13:43:30+09:00",
+  "sheet_row": 59,
+  "request_hash": "8617964c8035ad4c807b38988bd1e039f70e3c9b274c8712830df8e786231c04",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.nbcsports.com/mlb/news/mlb-offseason-calendar-2026-27-key-dates-free-agency-and-lockout-questions-answered",
+      "evidence": "December 1: Current MLB collective bargaining agreement expires at 11:59 p.m. ET December 2: Potential lockout begins",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 날짜, 시간, 락아웃 가능성 모두 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://mlb.com/news/baseball-enters-first-work-stoppage-in-26-years",
+      "evidence": "Any further signings will have to wait for a new CBA to be agreed upon, as Major League transactions -- meaning those involving players on 40-man rosters and others considered members of the union -- are not permitted during a lockout. (Minor League transactions are allowed.) Union members and clubs",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "FA 계약, 40인 로스터 선수 거래 중단, 구단-선수 간 연락 금지 모두 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.nbcsports.com/mlb/news/mlb-offseason-calendar-2026-27-key-dates-free-agency-and-lockout-questions-answered",
+      "evidence": "As it stands now, the two sides are extremely far apart, and a deal doesn’t seem likely by the December 1 deadline.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "NBC스포츠가 노사 양측의 입장 차가 극도로 크고 12월 1일 마감 전 타결이 어려워 보인다고 명확히 언급했다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mlbtraderumors.com/2026/11/kbos-hanwha-eagles-to-post-si-hwan-roh-for-mlb-teams.html",
+      "evidence": "If Roh and other KBO/NPB players posted this winter haven’t signed with a big league team by December 1, they’ll be caught up in the lockout transactions freeze just like their MLB counterparts.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 계약하지 못한 선수가 락아웃 거래 동결 대상이 된다고 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-12T13:44:29+09:00",
+  "model": "gpt-4.1"
+}
