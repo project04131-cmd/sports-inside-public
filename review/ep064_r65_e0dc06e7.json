@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep064",
+  "submitted_at": "2026-11-12T20:07:33+09:00",
+  "sheet_row": 65,
+  "request_hash": "e0dc06e77b1a91be960ef266548456037d5c34a2df098b6dcbe7f54af13075b4",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "SSG 랜더스는 12일 새 외국인 투수 라이언 리차드슨(26)을 총액 100만 달러(계약금 10만 달러, 연봉 90만 달러)에 영입했다고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 세부사항(팀, 선수, 총액, 계약금, 연봉)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에는 리차드슨 계약이 12일 발표된 것은 명확히 나오나, 아빌라 계약의 발표일이 11월 12일임을 명확히 확인할 수 있는 문장은 없다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "외국인 선수는 신규 영입 때 계약 상한이 100만 달러다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 KBO 외국인 선수의 신규 영입 계약 상한이 100만 달러임이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 반박하지 못해 보류(모델 판정: 불일치, 연관성 평가: supports)"
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "앞서 SSG는 아빌라와 최대 2년 총액 310만 달러(계약금 20만 달러, 연봉 280만 달러, 옵션 10만 달러)에 계약을 체결했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 재계약 조건(기간, 총액, 세부 내역)이 PAGE에 명확히 일치하게 기재되어 있다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "외국인 선수는 신규 영입 때 계약 상한이 100만 달러다. 재계약 선수에게 개인별 상한은 없지만, 2023시즌부터 구단별 외국인 선수 3명의 계약 총액에 샐러리캡이 적용되고 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2023시즌부터 구단별 외국인 선수 3명의 계약 총액에 샐러리캡이 적용된다고 명확히 언급되어 CLAIM과 일치한다."
+    }
+  ],
+  "judged_at": "2026-11-12T20:11:17+09:00",
+  "model": "gpt-4.1"
+}
