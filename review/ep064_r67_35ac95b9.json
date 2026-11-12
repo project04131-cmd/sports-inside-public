@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep064",
+  "submitted_at": "2026-11-12T20:12:06+09:00",
+  "sheet_row": 67,
+  "request_hash": "35ac95b9b0346aa266feaa17c484b2deaa2459651c8f88319ea923bcb555d363",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.newspim.com/news/view/20261112000396",
+      "evidence": "LG는 12일 \"외국인 선수 오스틴과 1년 200만 달러 재계약에 합의했다. 이는 KBO리그 역대 외국인 타자 중 최고 연봉 기록\"이라고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 LG가 오스틴과 1년 200만 달러 재계약에 합의했고, 이는 KBO리그 역대 외국인 타자 중 최고 연봉 기록임이 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.newspim.com/news/view/20261112000396",
+      "evidence": "기사입력 : 2026년11월12일 10:38 최종수정 : 2026년11월12일 10:38",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 오스틴 재계약 기사 게재일이 2026년 11월 12일로 명확히 기재되어 있어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "SSG 랜더스는 12일 새 외국인 투수 라이언 리차드슨(26)을 총액 100만 달러(계약금 10만 달러, 연봉 90만 달러)에 영입했다고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 수치와 계약 조건이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "SSG 랜더스는 12일 새 외국인 투수 라이언 리차드슨(26)을 총액 100만 달러(계약금 10만 달러, 연봉 90만 달러)에 영입했다고 밝혔다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 SSG가 12일 리차드슨 영입을 발표했다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "외국인 선수는 신규 영입 때 계약 상한이 100만 달러다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 KBO 외국인 선수 신규 영입 시 계약 상한이 100만 달러임이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/12/2026111214015852053",
+      "evidence": "앞서 SSG는 아빌라와 최대 2년 총액 310만 달러(계약금 20만 달러, 연봉 280만 달러, 옵션 10만 달러)에 계약을 체결했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 재계약 조건(기간, 총액, 세부 내역)이 PAGE에 명확히 일치하게 언급되어 있다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.starnewskorea.com/sports/2026/10/22/2026101811073891063",
+      "evidence": "재계약 선수에게 개인별 상한은 없지만, 2023시즌부터 구단별 외국인 선수 3명의 계약 총액에 샐러리캡이 적용되고 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 핵심 내용(재계약 선수 개인별 상한 없음, 2023시즌부터 외국인 3명 총액 샐러리캡 적용)이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-12T20:14:09+09:00",
+  "model": "gpt-4.1"
+}
