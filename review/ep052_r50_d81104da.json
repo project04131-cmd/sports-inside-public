@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep052",
+  "submitted_at": "2026-11-12T12:57:32+09:00",
+  "sheet_row": 50,
+  "request_hash": "d81104da9c118a973336fa09e936c778fce079fd0e769dcff49d4ab1249b0c93",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 429"
+    },
+    {
+      "n": 2,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 429"
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 429"
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 429"
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: [Errno 101] Network is unreachable"
+    }
+  ],
+  "judged_at": "2026-11-12T12:59:46+09:00",
+  "model": "gpt-4.1"
+}
