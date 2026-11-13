@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep068",
+  "submitted_at": "2026-11-13T20:40:37+09:00",
+  "sheet_row": 74,
+  "request_hash": "a07dc397ccdb85eb4f2be40d110eca9235649f563358bd99f9ff16cfa20f4560",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/11/2026111120555741755",
+      "evidence": "MLB 샌디에이고 파드리스는 11일(한국 시간) 와이스와 1년 계약을 체결했다고 발표했다. 계약에는 2028시즌 구단 옵션이 포함됐으며 구체적인 계약 규모는 공개되지 않았다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 와이스가 샌디에이고와 1년 계약을 맺었고 2028시즌 구단 옵션이 포함됐다는 내용이 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/11/2026111120555741755",
+      "evidence": "와이스는 2024년 대체 외국인 선수로 한화에 합류해 두 시즌 동안 46경기에 선발 등판, 270⅓이닝을 소화하며 평균자책점 3.16, 탈삼진 305개를 기록했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 와이스가 2024년부터 두 시즌 동안 한화에서 46경기 선발, 평균자책점 3.16을 기록했다는 내용이 명확히 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/11/2026111120555741755",
+      "evidence": "특히 지난해에는 30경기에서 16승 5패 평균자책점 2.87, 탈삼진 207개로 맹활약했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 와이스가 지난해 16승 5패, 평균자책점 2.87을 기록했다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/11/2026111120555741755",
+      "evidence": "이후 휴스턴 애스트로스와 계약하며 미국 무대로 돌아간 와이스는 올해 빅리그에 데뷔했지만 9경기에서 3패 평균자책점 7.62로 고전했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 와이스가 올해 휴스턴에서 9경기 평균자책점 7.62를 기록했다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mt.co.kr/sports/2026/11/11/2026111120555741755",
+      "evidence": "한화 재합류 가능성이 거론됐지만 와이스는 메이저리그(MLB) 도전을 이어가기로 했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 CLAIM의 핵심 내용이 동일하게 명시되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:44:22+09:00",
+  "model": "gpt-4.1"
+}

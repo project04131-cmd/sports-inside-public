@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep069",
+  "submitted_at": "2026-11-13T20:40:37+09:00",
+  "sheet_row": 75,
+  "request_hash": "ec24cb10e98b1c6d5c213bd7245b179548ea0c74bbe86b8dfe331f49924947ac",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 반박하지 못해 보류(모델 판정: 불일치, 연관성 평가: insufficient)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "Skubal is baseball’s top free agent after another dominant 2026 season on the mound. The 2-time Cy Young winner finished 2026 with a 2.72 ERA across 26 starts.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 스쿠발이 두 차례 사이영상을 수상했다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "“I do favor the Mets at this point; I’m not exactly sure where the Dodgers are gonna go. Worked out great for both parties. He loved it there; they loved him. But they’re not in the desperation kind of mode that the Mets are in to get better,” said Jon Heyman on MLB Network.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "존 헤이먼이 MLB 네트워크에서 메츠를 유력 후보로 꼽았다는 내용이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "Other than Heyman, ESPN’s Jorge Castillo reached the same conclusion, pointing to 2 clear advantages for New York.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 ESPN의 Jorge Castillo가 같은 결론(메츠가 스쿠발 영입에 유리)이라고 명시되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "Friedman said the Dodgers would keep speaking with agent Scott Boras, while respecting Skubal’s choice.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "프리드먼 사장이 보라스 측과 계속 대화하겠다고 말했다는 CLAIM이 PAGE의 해당 문장과 정확히 일치한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "One industry survey placed his projected deal at 8 years and $355 million. Several estimates fell between $325 million and $400 million over 7 to 10 years.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 7~10년, 8년 3억 5500만 달러 전망이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.essentiallysports.com/mlb-baseball-news-tarik-skubal-unlikely-to-settle-for-short-term-deal-as-insider-names-mets-the-favorite/",
+      "evidence": "A seven-year, $300 million contract is another projection, not a confirmed asking price yet.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 계약 규모가 확정된 요구액이 아니라 전망(프로젝션)임을 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:44:35+09:00",
+  "model": "gpt-4.1"
+}

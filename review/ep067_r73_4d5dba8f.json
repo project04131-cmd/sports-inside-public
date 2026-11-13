@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep067",
+  "submitted_at": "2026-11-13T20:40:37+09:00",
+  "sheet_row": 73,
+  "request_hash": "4d5dba8fe9796c2a3dbe1a558c8d607697e296f8e49969628b4e952fc329b73e",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "한국야구위원회(KBO)는 13일 2027년 FA 자격 선수 명단을 공시했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "KBO가 13일에 2027년 FA 자격 선수 28명을 공시했다는 CLAIM이 PAGE의 해당 문장과 정확히 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "등급별로는 A등급 6명, B등급 14명, C등급 8명이다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 등급별 FA 자격 선수 수가 CLAIM과 정확히 일치한다고 명시되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "구단별로는 kt와 SSG가 각각 6명으로 가장 많았다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 kt와 SSG가 각각 6명으로 FA 자격 선수가 가장 많다고 명확히 언급한다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "A등급(6명) 구자욱ㆍ원태인(삼성) 김민혁ㆍ배정대(kt) 홍창기(LG) 박상원(한화)",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 구자욱, 원태인, 홍창기가 모두 A등급임이 명확히 명시되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "두산 포수 양의지와 kt 내야수 김상수는 세 번째 FA 자격을 얻어 C등급에 이름을 올렸다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 두산 양의지가 세 번째 FA 자격을 얻었고 C등급임이 명확히 언급되어 있다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://osen.co.kr/article/G1112414152",
+      "evidence": "3차 FA 선수는 C등급으로 분류되는데 최정은 2014년 시즌 후 4년 86억원, 2018년 시즌 후 6년 106억원에 원소속팀 SK와 두 번의 FA 계약을 체결한 바 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 3차 FA 선수가 C등급으로 분류된다고 명확히 언급한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://osen.co.kr/article/G1112414152",
+      "evidence": "C등급 FA는 다른 구단이 영입시 보상선수가 발생하지 않는다. 전년도 연봉의 150%만 원소속팀에 보상하면 된다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 C등급 FA 영입 시 보상선수 없이 전년도 연봉의 150%를 보상한다는 내용을 명확히 확인할 수 있다."
+    },
+    {
+      "n": 8,
+      "result": "일치",
+      "src": "https://www.etoday.co.kr/news/view/2647969",
+      "evidence": "FA 권리 행사 승인을 받은 선수는 17일부터 해외 구단을 포함한 모든 구단과 계약 협상에 나설 수 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 FA 승인 선수는 17일부터 계약 협상을 할 수 있다고 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:44:12+09:00",
+  "model": "gpt-4.1"
+}

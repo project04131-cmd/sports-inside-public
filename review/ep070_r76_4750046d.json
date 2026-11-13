@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep070",
+  "submitted_at": "2026-11-13T20:40:37+09:00",
+  "sheet_row": 76,
+  "request_hash": "4750046d4e7c85b78e9d138a887d62aec09e4281ecd5181c45f097a92d408362",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.newsen.com/news_view.php?uid=202611130718391040",
+      "evidence": "MLB.com ƲŸ ʸ 3 3,500 ޷ Ը ࿡ ߴ.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "애틀랜타가 필립스와 3년 3500만 달러에 계약했다는 내용이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.newsen.com/news_view.php?uid=202611130718391040",
+      "evidence": "2027-2028 1,100 ޷, 2029⿡ 1,300 ޷ ϴ ̴.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2027~2028년 1,100만 달러, 2029년 1,300만 달러라고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에 필립스가 2025년에 토미 존 수술을 받았다는 내용이 없고, 올해 31경기에 등판했다는 내용도 명확히 확인되지 않는다."
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에서 필립스가 다저스에서 불펜 투수로 뛰었다는 내용이 명확히 확인되지 않는다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에 이글레시아스가 FA로 떠났다는 내용이 명확히 언급되어 있지 않다."
+    },
+    {
+      "n": 6,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에 필립스가 필승조 역할을 맡을 전망이라는 내용이 명확히 언급되어 있지 않다."
+    },
+    {
+      "n": 7,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에서 필립스가 2018년 애틀랜타에서 데뷔했다는 내용이나, 이번이 8년 만의 재결합이라는 내용은 명확히 확인되지 않는다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:44:44+09:00",
+  "model": "gpt-4.1"
+}
