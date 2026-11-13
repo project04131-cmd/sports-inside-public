@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep065",
+  "submitted_at": "2026-11-13T20:31:15+09:00",
+  "sheet_row": 68,
+  "request_hash": "cda35538e24f6dc2bdf218f85907bc4cf332756b1fa660139213a4db297d5fbd",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.crash.net/f1/news/1109740/1/lewis-hamilton-joins-max-verstappen-back-brazil-grid-after-engine-drama",
+      "evidence": "Hamilton joins Verstappen in starting from the back of the grid, with Red Bull fitting an all-new engine in the four-time world champion’s RB22.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 베르스타펜과 해밀턴이 모두 새 파워유닛(엔진) 교체로 브라질 GP 그리드 맨 뒤에서 출발한다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://racingnews365.com/lewis-hamilton-devastated-as-sao-paulo-gp-unravels-after-rocket-start",
+      "evidence": "From 20th on the grid after taking a fresh power unit, in the tricky conditions on Intermediate tyres, by Turn 5 on the opening lap, Hamilton was passing the Haas of Oliver Bearman, who had started sixth, and ended the first lap in ninth place.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 해밀턴이 20위에서 출발해 첫 바퀴를 9위로 마쳤다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+      "evidence": "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 'changing weather' 속에서 브라질 GP가 치러졌다고 명확히 언급되어 CLAIM과 일치한다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:33:52+09:00",
+  "model": "gpt-4.1"
+}

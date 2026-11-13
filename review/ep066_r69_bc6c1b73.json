@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep066",
+  "submitted_at": "2026-11-13T20:31:15+09:00",
+  "sheet_row": 69,
+  "request_hash": "bc6c1b7387efb516f16edcc11ad6bc83bc7a731a5cde816f334e7a9eeed73cf4",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+      "evidence": "Kimi Antonelli has become Formula One’s youngest world champion ⁠at 20 years and 68 days old with his third-place finish for Mercedes at the Mexico City Grand Prix.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 안토넬리가 멕시코시티 GP에서 3위를 하며 F1 월드 챔피언이 되었다고 명확히 언급한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+      "evidence": "Kimi Antonelli has become Formula One’s youngest world champion ⁠at 20 years and 68 days old with his third-place finish for Mercedes at the Mexico City Grand Prix.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 안토넬리가 20세 68일에 F1 역대 최연소 챔피언이 되었다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+      "evidence": "The previous youngest champion was Germany’s Sebastian Vettel, who took the first of his four with Red Bull at 23 years and 134 days old in 2010.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2010년 베텔이 23세 134일로 최연소 챔피언이었다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에는 안토넬리가 멕시코시티 GP에서 9위만 해도 타이틀을 확정할 수 있었다는 구체적인 조건이나 수치가 언급되어 있지 않다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+      "evidence": "Mercedes's Italian driver Kimi Antonelli was in tears after clinching his first Formula One world championship title at the Mexico City Grand Prix",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 안토넬리가 메르세데스 소속임을 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:34:04+09:00",
+  "model": "gpt-4.1"
+}
