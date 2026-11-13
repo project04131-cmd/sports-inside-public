@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep070",
+  "submitted_at": "2026-11-13T20:46:27+09:00",
+  "sheet_row": 81,
+  "request_hash": "0c4a8096c4b84475eed9f5dbb408cc0754d8e9790377697140de4054c8e491e4",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "애틀랜타는 필립스와 계약 기간 3년에 총액 3500만 달러(약 468억원)에 사인했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "계약 주체, 선수, 기간, 총액 모두 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "필립스는 올 시즌 LA 다저스에서 31경기(26이닝)에 나와 3승 2패 1세이브 8홀드 평균자책점 3.46을 기록했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 기록(경기수, 승패, 세이브, 홀드, 평균자책점)이 PAGE에 명확히 일치하게 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.foxsports.com/articles/mlb/dodgers-bring-back-evan-phillips-on-a-65m-deal-as-he-rehabs-from-tommy-john-surgery",
+      "evidence": "The 31-year-old right-hander was limited to seven appearances last year before having Tommy John surgery in late May.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 필립스가 토미 존 수술을 받았다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "2023년에는 다저스 뒷문을 지키며 62경기(61.1이닝) 2승 4패 24세이브 6홀드 평균자책점 2.05라는 성적을 냈다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2023년 다저스에서 24세이브를 기록했다는 내용이 명확히 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "메이저리그(MLB) 애틀랜타 브레이브스가 불펜진과 뒷문을 동시에 보강했다. MLB 닷컴은 13일(한국시각) 애틀랜타가 자유계약선수(FA) 자격을 얻은 에반 필립스(투수)를 영입했다고 전했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 애틀랜타가 필립스 영입으로 불펜을 보강했다고 명시한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "필립스는 이번 계약으로 '친정팀' 애틀랜타로 돌아갔다. 그는 2018년 애틀랜타 유니폼을 입고 MLB 데뷔했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 필립스가 2018년 애틀랜타에서 데뷔했고 이번에 애틀랜타로 돌아왔다는 내용이 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:48:42+09:00",
+  "model": "gpt-4.1"
+}
