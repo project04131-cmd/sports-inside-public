@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep070",
+  "submitted_at": "2026-11-13T20:44:44+09:00",
+  "sheet_row": 79,
+  "request_hash": "164a6bb9a666e24957ee67b849a808408ba1388e62f28a0430af283e68aab2ab",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "애틀랜타는 필립스와 계약 기간 3년에 총액 3500만 달러(약 468억원)에 사인했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "계약 주체, 선수, 기간, 총액 모두 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "필립스는 올 시즌 LA 다저스에서 31경기(26이닝)에 나와 3승 2패 1세이브 8홀드 평균자책점 3.46을 기록했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 기록(경기수, 승패, 세이브, 홀드, 평균자책점)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "PAGE에는 필립스가 토미 존 수술을 'late May'에 받았다고만 나와 있고, 연도는 명확히 언급되지 않는다. CLAIM의 '2025년 5월'과 정확히 일치하는지 PAGE로 확인할 수 없다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "2023년에는 다저스 뒷문을 지키며 62경기(61.1이닝) 2승 4패 24세이브 6홀드 평균자책점 2.05라는 성적을 냈다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 2023년 다저스에서 24세이브를 기록했다는 내용이 명확히 있다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 뒷받침하지 못해 보류(모델 판정: 일치, 연관성 평가: insufficient)"
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.mydaily.co.kr/page/view/2026111309152666390",
+      "evidence": "필립스는 이번 계약으로 '친정팀' 애틀랜타로 돌아갔다. 그는 2018년 애틀랜타 유니폼을 입고 MLB 데뷔했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "2018년 애틀랜타에서 데뷔했고 이번에 애틀랜타로 돌아왔다는 CLAIM이 PAGE에서 명확히 확인된다."
+    }
+  ],
+  "judged_at": "2026-11-13T20:47:04+09:00",
+  "model": "gpt-4.1"
+}
