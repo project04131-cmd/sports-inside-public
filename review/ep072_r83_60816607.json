@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep072",
+  "submitted_at": "2026-11-15T13:14:07+09:00",
+  "sheet_row": 83,
+  "request_hash": "6081660702f2ea221310d5c50fbb5bcc0e2710d7119098e9ec1538d147db8232",
+  "verdict": "통과",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2170830",
+      "evidence": "삼성 라이온즈가 11일 새 외국인 투수 크리스 페덱과 47만3333달러(약 7억1000만원)에 계약을 체결했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 계약 금액과 구단, 선수 이름이 PAGE에 명확히 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2217682",
+      "evidence": "매체는 끝으로 \"삼성은 1982년 리그에 합류한 이후 통산 9차례 우승을 차지한 자랑스러운 역사를 가진 구단이다. 이번 우승으로 12년 동안 이어졌던 우승 가뭄을 끝냈다\"고 의미를 부여했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에서 삼성의 이번 우승이 12년 동안 이어진 우승 가뭄을 끝냈다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2217978",
+      "evidence": "페덱은 후반기 13경기에서 7승 3패 평균자책점 2.95의 준수한 성적을 거뒀다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 CLAIM의 수치와 내용이 정확히 일치한다고 명시되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2217978",
+      "evidence": "올 시즌을 앞두고 삼성은 지난해 팀의 에이스였던 아리엘 후라도를 170만 달러(약 22억원)에 붙잡았고,",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "후라도가 170만 달러에 재계약했다는 CLAIM이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2217978",
+      "evidence": "후라도는 플레이오프 2경기에서 모두 승리를 거두며 시리즈 MVP에 올랐다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 후라도가 플레이오프 2경기 모두 승리하고 시리즈 MVP에 올랐다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.maxportsnews.com/news/articleView.html?idxno=7033",
+      "evidence": "최전방에서 타선을 이끈 디아즈는 계약금 20만 달러, 연봉 130만 달러, 인센티브 10만 달러 등 최대 총액 160만 달러의 조건으로 재계약을 마쳤다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 디아즈가 최대 총액 160만 달러에 재계약했다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 7,
+      "result": "일치",
+      "src": "https://www.xportsnews.com/article/2217682",
+      "evidence": "이어 \"디아즈는 올 시즌 타율 0.305, 출루율 0.384, 장타율 0.510에 26홈런을 기록했다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 디아즈가 올 시즌 26홈런을 기록했다는 내용이 명확히 언급되어 있다."
+    },
+    {
+      "n": 8,
+      "result": "일치",
+      "src": "https://sports.khan.co.kr/article/202611140950003/",
+      "evidence": "KBO리그 규성상 외국인 선수 3명에게 줄 수 있는 연봉 상한액은 400만달러다. 재계약 선수가 포함될 경우, 연차당 10만달러씩 추가돼 2027시즌 삼성의 외국인 선수 예상 상한선은 460만달러다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 두 가지 핵심 주장(3명 상한 400만달러, 2027시즌 삼성 예상 상한선 460만달러)이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 9,
+      "result": "일치",
+      "src": "https://sports.khan.co.kr/article/202611140950003/",
+      "evidence": "그러나 아직 연봉 인상이 반영되지 않ㅇ은 2026시즌 계약상으로 다른 두 외국인 선수 아리엘 후라도(170만달러)와 르윈 디아즈(160만달러)에게 이미 330만달러를 지출하고 있다.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "후라도와 디아즈에게 이미 330만 달러가 지출됐다는 CLAIM이 PAGE에 명확히 언급되어 있다."
+    }
+  ],
+  "judged_at": "2026-11-15T13:16:04+09:00",
+  "model": "gpt-4.1"
+}
