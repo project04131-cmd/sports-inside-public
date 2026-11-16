@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep075",
+  "submitted_at": "2026-11-16T19:08:44+09:00",
+  "sheet_row": 91,
+  "request_hash": "e225fcd509f9ff94e31a67bfed38fc5a26dfbec4e808a6392c892ad58b965a88",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://www.autosport.com/f1/feature/6002/the-legacy-of-imola-1994",
+      "evidence": "This followed the accident during the race at Imola when a wheel shed by Michele Alboreto's Minardi struck several mechanics.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 1994년 산마리노 그랑프리에서 알보레토의 차에서 빠진 바퀴가 정비사들을 쳤다는 내용이 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.autosport.com/f1/feature/6002/the-legacy-of-imola-1994",
+      "evidence": "Initially, several proposals were made for the Monaco GP that followed. While plans to draw lots pre-race to allocate fuel-stops and prevent too many cars being in the pits at one time were, thankfully, dropped, the pitlane speed limit was introduced along with rules preventing crew hanging around o",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 피트레인 속도 제한이 모나코 그랑프리부터 도입됐다고 명확히 언급되어 CLAIM과 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 410"
+    },
+    {
+      "n": 4,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "접근 실패: HTTP 410"
+    }
+  ],
+  "judged_at": "2026-11-16T19:10:27+09:00",
+  "model": "gpt-4.1"
+}
