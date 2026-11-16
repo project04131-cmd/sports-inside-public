@@ -3,3 +3,4 @@
 - review/: 지피티 대본 검수 결과 JSON (키·시크릿 없음)
 - trends/: 주간 쇼츠 트렌드 요약
 - gpt_review.py: 검수 결과 검증 스크립트
+- docs/: 채널 지표 도구 안내·개인정보처리방침 (GitHub Pages)
