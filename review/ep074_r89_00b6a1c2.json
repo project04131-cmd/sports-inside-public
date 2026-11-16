@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep074",
+  "submitted_at": "2026-11-16T19:06:42+09:00",
+  "sheet_row": 89,
+  "request_hash": "00b6a1c27af1911c3510d89d96d70660ab11e5d40b57b74cd48823f4dcb6c357",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "일치",
+      "src": "https://irishtimes.com/sport/2022/06/16/fia-to-act-after-f1-drivers-complain-about-porpoising-affecting-health",
+      "evidence": "Porpoising occurs on straights as cars gain and lose downforce from the ground-effect aerodynamics beneath the floor of the vehicle.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 포포싱이 그라운드 이펙트 공기역학으로 인해 직선에서 다운포스를 얻었다 잃었다 하며 발생한다고 명확히 설명한다."
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://irishtimes.com/sport/2022/06/16/fia-to-act-after-f1-drivers-complain-about-porpoising-affecting-health",
+      "evidence": "Lewis Hamilton was barely able to climb from his car after the Baku Grand Prix due to the porpoising of his Mercedes.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 해밀턴이 바쿠에서 포포싱 때문에 차에서 내리기 힘들었다고 명확히 언급한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://irishtimes.com/sport/2022/06/16/fia-to-act-after-f1-drivers-complain-about-porpoising-affecting-health",
+      "evidence": "The FIA has decided to intervene following consultation with its doctors in the interests of safety of the drivers,",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "FIA가 의사들과 상의한 뒤 드라이버 안전을 위해 개입하기로 했다는 내용이 PAGE에 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://the-race.com/formula-1/2023-f1-technical-rule-changes/",
+      "evidence": "To attempt to definitively cancel out porpoising, the FIA has imposed a change in the height of the floor, which will be 15mm higher on the side edge than the reference plane, as well as a 10mm higher diffuser groove. This will prevent floor stalling but comes at the expense of a reduction in total ",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 2023년 규정에서 바닥 가장자리가 15mm 높아졌고, 이로 인해 다운포스가 줄었다고 명확히 언급한다."
+    },
+    {
+      "n": 5,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "근거 인용문이 출처 본문에서 확인되지 않아 보류(모델 판정: 일치)"
+    }
+  ],
+  "judged_at": "2026-11-16T19:08:50+09:00",
+  "model": "gpt-4.1"
+}
