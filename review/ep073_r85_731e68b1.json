@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "episode_id": "ep073",
+  "submitted_at": "2026-11-16T19:04:10+09:00",
+  "sheet_row": 85,
+  "request_hash": "731e68b1346eb81dac6eed71209232a999a373fc8d0dcbe086d987d00eadedf5",
+  "verdict": "수정필요",
+  "checks": [
+    {
+      "n": 1,
+      "result": "보류",
+      "src": "",
+      "evidence": "",
+      "evidence_verified": false,
+      "support_check": "",
+      "reason": "인용문은 있으나 주장을 직접 뒷받침하지 못해 보류(모델 판정: 일치, 연관성 평가: insufficient)"
+    },
+    {
+      "n": 2,
+      "result": "일치",
+      "src": "https://www.gamereactor.eu/why-were-leclerc-hamilton-and-gasly-disqualified-from-the-chinese-grand-prix-1518523/",
+      "evidence": "it was found be 8.6mm (LHS), 8.6mm (car centreline) and 8.5mm (RHS).",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 수치와 위치가 PAGE의 내용과 정확히 일치한다."
+    },
+    {
+      "n": 3,
+      "result": "일치",
+      "src": "https://www.gamereactor.eu/why-were-leclerc-hamilton-and-gasly-disqualified-from-the-chinese-grand-prix-1518523/",
+      "evidence": "The Chinese Grand Prix last Sunday had an unusual ending, with three drivers being disqualified, including both Ferrari drivers, Charles Leclerc and Lewis Hamilton, who finished fifth and sixth, but had then their points removed.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE에 해밀턴이 6위로 들어왔으나 실격되어 순위가 지워졌다고 명확히 언급되어 있다."
+    },
+    {
+      "n": 4,
+      "result": "일치",
+      "src": "https://www.gpfans.com/en/f1-news/1006401/f1-skid-blocks/h",
+      "evidence": "According to F1's technical regulations, the plank must be a centimetre thick. If the plank wears down by more than a millimetre, the car breaches the technical regulations, leading to disqualification. Article 3.5.9 e) of the 2023 F1 technical regulations states: \"The thickness of the plank assembl",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "CLAIM의 모든 수치와 기준(10mm 신품, 9mm까지 허용, 1mm 이상 마모시 실격)이 PAGE에서 명확히 확인된다."
+    },
+    {
+      "n": 5,
+      "result": "일치",
+      "src": "https://www.gpfans.com/en/f1-news/1006401/f1-skid-blocks/h",
+      "evidence": "They were introduced in 1994 as a safety measure following the tragic deaths of Ayrton Senna and Roland Ratzenberger, in order to maintain a minimum ride height and prevent cars from being too low to the ground.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 플랭크가 최소 차고를 유지해 차가 너무 낮게 달리지 못하게 한다고 명확히 설명한다."
+    },
+    {
+      "n": 6,
+      "result": "일치",
+      "src": "https://www.gpfans.com/en/f1-news/1006401/f1-skid-blocks/h",
+      "evidence": "They were introduced in 1994 as a safety measure following the tragic deaths of Ayrton Senna and Roland Ratzenberger, in order to maintain a minimum ride height and prevent cars from being too low to the ground.",
+      "evidence_verified": true,
+      "support_check": "supports",
+      "reason": "PAGE는 플랭크가 1994년 세나와 라첸베르거 사망 이후 도입됐다고 명확히 언급한다."
+    }
+  ],
+  "judged_at": "2026-11-16T19:06:09+09:00",
+  "model": "gpt-4.1"
+}
