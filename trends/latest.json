@@ -1,116 +1,117 @@
 {
  "schema_version": 1,
- "collected_at": "2026-11-16T09:56:22+09:00",
- "report_file": "report_2026-11-16.json",
+ "collected_at": "2026-11-23T09:46:03+09:00",
+ "report_file": "report_2026-11-23.json",
  "growth_available": true,
  "growth_note": "7일 증가량은 약 7일 전(±12시간) 스냅샷이 있는 영상만 계산했습니다. 기준선 출처가 다른 영상은 오차가 있을 수 있습니다.",
  "region_note": "국내/해외 구분은 후보 발굴 단계의 분류이며 채널 국적을 확인한 것이 아닙니다.",
  "claude_summary": {
   "rising_sports": [
    "야구/MLB",
-   "농구/NBA",
    "미식축구/NFL",
+   "스케이트보드",
+   "치어리딩",
+   "농구/NBA",
    "축구",
-   "복싱",
    "배드민턴",
-   "육상"
+   "복싱/격투기"
   ],
   "rising_issues": [
-   "반전·의외성",
-   "감정 자극형 팬 스토리",
-   "규칙·제도 논란",
-   "숫자·기록 중심"
+   "복수와 리벤지",
+   "팬 감정",
+   "규칙 논란",
+   "숫자·기록 강조",
+   "반전 상황"
   ],
   "popular_topics": [
-   "극적인 역전",
-   "복수·리벤지",
+   "역전승",
+   "반전",
    "팬과 선수의 감정",
-   "기록·숫자 활용"
+   "기록 경신",
+   "챌린지",
+   "레전드 순간"
   ],
   "recurring_formats": [
-   "숫자·기록 강조",
-   "반전·의외성",
-   "감정 자극형 도입",
-   "짧은 시간 내 충격적 사건"
+   "숫자 강조형",
+   "감정 자극형",
+   "반전·의문형 도입",
+   "짧은 시간 내 핵심 공개"
   ],
   "script_ideas": [
    {
     "sport": "F1",
-    "idea": "예상치 못한 상황에서 드라이버가 내린 결정과 그 결과를 반전 구조로 전달",
+    "idea": "규칙 변화로 인한 혼란과 반전 결과",
     "ref_ids": [
-     "gIrwSClUtI4",
-     "WYCKLBJI3dg"
+     "S1C7KVnzfDg"
     ]
    },
    {
     "sport": "MLB",
-    "idea": "복수와 감정 변화가 담긴 리벤지 매치 스토리텔링",
+    "idea": "선수의 복수전과 감정 서사",
     "ref_ids": [
-     "6Ibw4P5TnTk",
-     "5B-XcI_R9Bk"
+     "6Ibw4P5TnTk"
     ]
    },
    {
     "sport": "KBO",
-    "idea": "심판 판정 논란과 선수·팬의 감정 변화를 교차 편집",
+    "idea": "심판 판정 논란과 예상 밖 결말",
     "ref_ids": [
-     "bU7fJc-JUAQ",
-     "S1C7KVnzfDg"
+     "X7XbzXcbj84"
     ]
    }
   ],
-  "notes": "숫자·기록과 감정, 반전 구조가 결합된 영상이 국내외 모두 높은 반응을 보임. 팬의 시선, 규칙 논란, 복수·리벤지 등 감정적 요소가 트렌드를 주도."
+  "notes": "숫자와 감정, 반전·의문형 도입이 이번 주 쇼츠 트렌드의 핵심. 팬 감정과 선수 감정의 교차, 규칙 논란 등도 주요 소재로 부상."
  },
  "reference_videos": {
   "WYCKLBJI3dg": "https://www.youtube.com/shorts/WYCKLBJI3dg",
   "DSMXlMkBmjI": "https://www.youtube.com/shorts/DSMXlMkBmjI",
   "nHrJ-8nPORo": "https://www.youtube.com/shorts/nHrJ-8nPORo",
-  "gIrwSClUtI4": "https://www.youtube.com/shorts/gIrwSClUtI4",
-  "5B-XcI_R9Bk": "https://www.youtube.com/shorts/5B-XcI_R9Bk",
-  "8e0xwJHUIBA": "https://www.youtube.com/shorts/8e0xwJHUIBA",
   "X7XbzXcbj84": "https://www.youtube.com/shorts/X7XbzXcbj84",
+  "5B-XcI_R9Bk": "https://www.youtube.com/shorts/5B-XcI_R9Bk",
+  "gIrwSClUtI4": "https://www.youtube.com/shorts/gIrwSClUtI4",
+  "mTeWSIndNOM": "https://www.youtube.com/shorts/mTeWSIndNOM",
   "bU7fJc-JUAQ": "https://www.youtube.com/shorts/bU7fJc-JUAQ",
-  "zcpB161TSRM": "https://www.youtube.com/shorts/zcpB161TSRM",
+  "PPlSCF7qS_s": "https://www.youtube.com/shorts/PPlSCF7qS_s",
   "1QL6Go1PTPc": "https://www.youtube.com/shorts/1QL6Go1PTPc",
   "977-jjYH6Hk": "https://www.youtube.com/shorts/977-jjYH6Hk",
-  "mTeWSIndNOM": "https://www.youtube.com/shorts/mTeWSIndNOM",
-  "PPlSCF7qS_s": "https://www.youtube.com/shorts/PPlSCF7qS_s",
-  "1hYsNwvN3WA": "https://www.youtube.com/shorts/1hYsNwvN3WA",
-  "HFYgUZs71nU": "https://www.youtube.com/shorts/HFYgUZs71nU",
+  "zcpB161TSRM": "https://www.youtube.com/shorts/zcpB161TSRM",
+  "8e0xwJHUIBA": "https://www.youtube.com/shorts/8e0xwJHUIBA",
   "RSivuo3yE_M": "https://www.youtube.com/shorts/RSivuo3yE_M",
-  "WqR86alsjcI": "https://www.youtube.com/shorts/WqR86alsjcI",
-  "hJIlZkT8TBQ": "https://www.youtube.com/shorts/hJIlZkT8TBQ",
   "w-AaXXp5YwQ": "https://www.youtube.com/shorts/w-AaXXp5YwQ",
-  "4ako64t9Jco": "https://www.youtube.com/shorts/4ako64t9Jco",
-  "eU_ziUimKlY": "https://www.youtube.com/shorts/eU_ziUimKlY",
-  "YGjLRpFcrxo": "https://www.youtube.com/shorts/YGjLRpFcrxo",
-  "NJ_-H4_zONI": "https://www.youtube.com/shorts/NJ_-H4_zONI",
-  "sq2YqaJE9sI": "https://www.youtube.com/shorts/sq2YqaJE9sI",
+  "WqR86alsjcI": "https://www.youtube.com/shorts/WqR86alsjcI",
+  "HFYgUZs71nU": "https://www.youtube.com/shorts/HFYgUZs71nU",
   "u10C60HckcM": "https://www.youtube.com/shorts/u10C60HckcM",
+  "NJ_-H4_zONI": "https://www.youtube.com/shorts/NJ_-H4_zONI",
+  "eU_ziUimKlY": "https://www.youtube.com/shorts/eU_ziUimKlY",
+  "hJIlZkT8TBQ": "https://www.youtube.com/shorts/hJIlZkT8TBQ",
+  "1hYsNwvN3WA": "https://www.youtube.com/shorts/1hYsNwvN3WA",
+  "sq2YqaJE9sI": "https://www.youtube.com/shorts/sq2YqaJE9sI",
+  "YGjLRpFcrxo": "https://www.youtube.com/shorts/YGjLRpFcrxo",
+  "4ako64t9Jco": "https://www.youtube.com/shorts/4ako64t9Jco",
   "6Ibw4P5TnTk": "https://www.youtube.com/shorts/6Ibw4P5TnTk",
-  "ZrSPe8VqXv8": "https://www.youtube.com/shorts/ZrSPe8VqXv8",
-  "WU2IA9VfpYw": "https://www.youtube.com/shorts/WU2IA9VfpYw",
   "f1w8pZP8TaI": "https://www.youtube.com/shorts/f1w8pZP8TaI",
   "S1C7KVnzfDg": "https://www.youtube.com/shorts/S1C7KVnzfDg",
-  "vJoEE5WZSM8": "https://www.youtube.com/shorts/vJoEE5WZSM8",
-  "ajxUJCIsM_0": "https://www.youtube.com/shorts/ajxUJCIsM_0",
   "7XYpI77GpYk": "https://www.youtube.com/shorts/7XYpI77GpYk",
-  "g-VZxOTgZ98": "https://www.youtube.com/shorts/g-VZxOTgZ98",
+  "vJoEE5WZSM8": "https://www.youtube.com/shorts/vJoEE5WZSM8",
+  "ZrSPe8VqXv8": "https://www.youtube.com/shorts/ZrSPe8VqXv8",
+  "WU2IA9VfpYw": "https://www.youtube.com/shorts/WU2IA9VfpYw",
   "IAbsngENlJk": "https://www.youtube.com/shorts/IAbsngENlJk",
+  "g-VZxOTgZ98": "https://www.youtube.com/shorts/g-VZxOTgZ98",
   "JqnYuik_-5c": "https://www.youtube.com/shorts/JqnYuik_-5c",
-  "Y49XfvCiSY4": "https://www.youtube.com/shorts/Y49XfvCiSY4",
-  "ShpEB2hDVjU": "https://www.youtube.com/shorts/ShpEB2hDVjU",
-  "Sk-h6dcaAEY": "https://www.youtube.com/shorts/Sk-h6dcaAEY",
+  "ajxUJCIsM_0": "https://www.youtube.com/shorts/ajxUJCIsM_0",
   "qWx7fv1T178": "https://www.youtube.com/shorts/qWx7fv1T178",
-  "QiBovE1f0Cg": "https://www.youtube.com/shorts/QiBovE1f0Cg",
-  "VMheFZH4jc4": "https://www.youtube.com/shorts/VMheFZH4jc4",
-  "mDlP2u_0ng4": "https://www.youtube.com/shorts/mDlP2u_0ng4",
-  "2uwEQTPwi3Y": "https://www.youtube.com/shorts/2uwEQTPwi3Y",
-  "di9dCnh6yJ8": "https://www.youtube.com/shorts/di9dCnh6yJ8",
-  "JJpii-o1nZ0": "https://www.youtube.com/shorts/JJpii-o1nZ0",
+  "ShpEB2hDVjU": "https://www.youtube.com/shorts/ShpEB2hDVjU",
   "7y3NySAZweY": "https://www.youtube.com/shorts/7y3NySAZweY",
+  "VMheFZH4jc4": "https://www.youtube.com/shorts/VMheFZH4jc4",
   "PLHuK9J1DFg": "https://www.youtube.com/shorts/PLHuK9J1DFg",
+  "Y49XfvCiSY4": "https://www.youtube.com/shorts/Y49XfvCiSY4",
+  "Sk-h6dcaAEY": "https://www.youtube.com/shorts/Sk-h6dcaAEY",
+  "di9dCnh6yJ8": "https://www.youtube.com/shorts/di9dCnh6yJ8",
+  "QiBovE1f0Cg": "https://www.youtube.com/shorts/QiBovE1f0Cg",
   "BET8Zm68W-4": "https://www.youtube.com/shorts/BET8Zm68W-4",
+  "2uwEQTPwi3Y": "https://www.youtube.com/shorts/2uwEQTPwi3Y",
+  "JJpii-o1nZ0": "https://www.youtube.com/shorts/JJpii-o1nZ0",
+  "mDlP2u_0ng4": "https://www.youtube.com/shorts/mDlP2u_0ng4",
   "sg-HrZ__Uvw": "https://www.youtube.com/shorts/sg-HrZ__Uvw"
  }
 }
